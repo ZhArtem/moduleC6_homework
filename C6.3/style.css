@@ -1,0 +1,19 @@
+.btn {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.btn:hover {
+    font-weight: bold;
+}
+
+.btn-icon {
+    margin-left: 5px;
+}
+
+.hidden {
+    display: none;
+}
